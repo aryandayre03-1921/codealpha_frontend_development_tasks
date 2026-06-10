@@ -175,7 +175,7 @@ Neon-Music-Player/
 
 # 📸 Project Preview
 
-![image alt]()
+![image alt](https://github.com/aryandayre03-1921/codealpha_frontend_development_tasks/blob/main/CodeAlpha_Task4_Music_Player/Screenshorts/Screenshot%202026-06-10%20170647.png?raw=true)
 
 ---
 
