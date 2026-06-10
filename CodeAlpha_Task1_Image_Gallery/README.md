@@ -177,47 +177,6 @@ Add your project screenshot:
 
 ---
 
-# 💻 Installation Guide
-
-## Step 1
-
-Clone Repository
-
-```bash
-git clone https://github.com/your-username/3d-rotating-image-gallery.git
-```
-
-## Step 2
-
-Open Project Folder
-
-## Step 3
-
-Ensure all images are placed in their correct folders:
-
-```text
-images/
-│
-├── nature/
-├── car/
-├── birds/
-├── wild amimal/
-├── flower/
-├── bike/
-└── beach/
-```
-
-## Step 4
-
-Run:
-
-```text
-index.html
-```
-
-in your browser.
-
----
 
 # 🎨 Design Highlights
 
