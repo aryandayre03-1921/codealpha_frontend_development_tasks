@@ -114,14 +114,15 @@ Each category contains multiple high-quality images.
 
 # 📸 Project Preview
 
+Add your project screenshot:
+
 ![image alt](https://github.com/aryandayre03-1921/codealpha_frontend_development_tasks/blob/main/CodeAlpha_Task1_Image_Gallery/Screenshorts/Screenshot%202026-06-10%20172235.png?raw=true)
 
 
 ![image alt](https://github.com/aryandayre03-1921/codealpha_frontend_development_tasks/blob/main/CodeAlpha_Task1_Image_Gallery/Screenshorts/Screenshot%202026-06-10%20172316.png?raw=true)
-```
----
 
 ---
+
 # 🎯 Category Details
 
 ## 🌿 Nature Gallery
@@ -176,6 +177,47 @@ Each category contains multiple high-quality images.
 
 ---
 
+# 💻 Installation Guide
+
+## Step 1
+
+Clone Repository
+
+```bash
+git clone https://github.com/your-username/3d-rotating-image-gallery.git
+```
+
+## Step 2
+
+Open Project Folder
+
+## Step 3
+
+Ensure all images are placed in their correct folders:
+
+```text
+images/
+│
+├── nature/
+├── car/
+├── birds/
+├── wild amimal/
+├── flower/
+├── bike/
+└── beach/
+```
+
+## Step 4
+
+Run:
+
+```text
+index.html
+```
+
+in your browser.
+
+---
 
 # 🎨 Design Highlights
 
