@@ -114,10 +114,10 @@ Each category contains multiple high-quality images.
 
 # 📸 Project Preview
 
-![image alt]()
+![image alt](https://github.com/aryandayre03-1921/codealpha_frontend_development_tasks/blob/main/CodeAlpha_Task1_Image_Gallery/Screenshorts/Screenshot%202026-06-10%20172235.png?raw=true)
 
 
-![image alt]()
+![image alt](https://github.com/aryandayre03-1921/codealpha_frontend_development_tasks/blob/main/CodeAlpha_Task1_Image_Gallery/Screenshorts/Screenshot%202026-06-10%20172316.png?raw=true)
 ```
 
 ---
