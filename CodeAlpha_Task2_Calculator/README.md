@@ -153,7 +153,7 @@ Neumorphic-Calculator/
 
 ## 📸 Screenshot
 
-![image alt]()
+![image alt](https://github.com/aryandayre03-1921/codealpha_frontend_development_tasks/blob/main/CodeAlpha_Task2_Calculator/Screenshorts/Screenshot%202026-06-10%20164201.png?raw=true)
 
 ```text
 screenshot.png
